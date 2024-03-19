@@ -1,8 +1,8 @@
 {
     "name": "QR/Pair code-md",
-    "description": "I'm Web QR by Gifted tech & Excel",
-    "logo": "https://i.ibb.co/HtT3vjm/goku-gif-3.gif",
-    "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
+    "description": "I'm Web QR by Ibrahim tech & Excel",
+    "logo": "https://telegra.ph/file/06c29434ea71a8ce855a1.jpg",
+    "repository": "https://github.com/ibrahimaitech/IBRAHIM-TECH-CODE",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
