@@ -1,4 +1,4 @@
-# GiftedmdV2-session-generator
+# IBRAHIM-Tech-session-generator
 - Kindly star my repo
 - Fork and edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
@@ -9,7 +9,7 @@ QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
    <a href="https://github.com/Xcelsama">
-    <img src="https://i.ibb.co/HtT3vjm/goku-gif-3.gif" width="500">
+    <img src="" width="500">
      
 </a>
    <a aria-label="QRis free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
